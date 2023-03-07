@@ -7,7 +7,7 @@ public class program02 {
 
 	public static void main(String[] args) {
 	
-		HashSet<Integer> x= new HashSet<>();
+		HashSet<Integer> x= new HashSet<>();// random storing of data
 		x.add(10);
 		x.add(30);
 		x.add(20);
